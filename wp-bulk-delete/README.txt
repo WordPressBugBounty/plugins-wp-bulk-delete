@@ -4,8 +4,8 @@ Donate link: http://xylusthemes.com
 Tags: delete, bulk, clean database, bulk delete, bulk clean
 Requires at least: 4.9
 Requires PHP: 5.3
-Tested up to: 6.8 
-Stable tag: 1.3.7
+Tested up to: 6.9 
+Stable tag: 1.3.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -153,6 +153,11 @@ posts delete, delete all, mass delete, delete posts, delete comments, delete use
 10. 🔍 Delete WooCommerce General Filter
 
 == Changelog ==
+
+= 1.3.8 =
+* ADDED: Active/Pause button in schedule delete. ( PRO )
+* ADDED: Comment Description filter. ( PRO )
+* IMPROVEMENTS: User and Post meta key fields changed from input to dropdown. ( PRO )
 
 = 1.3.7 =
 * FIX: Added admin permission checks for AJAX and removed redundant load_textdomain() function.
